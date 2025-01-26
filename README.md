@@ -30,7 +30,7 @@ Plot, export your complete profit and loss history
 
   
 # Download
-here's a link
+[AnvilTraderBootstrapper.exe](https://github.com/AnvilMicrosystems/AnvilTrader/releases/download/packages/AnvilTraderBootstrapper.exe)
 
 # Frequently Asked Questions
 ### Is it free?
