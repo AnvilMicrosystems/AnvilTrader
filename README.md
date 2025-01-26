@@ -5,7 +5,7 @@ AnvilTrader is a Windows desktop app for Kalshi traders. It's in alpha and curre
 
 ### High Temp
 
-<img src="./KMIA demo.gif" width="50%" />
+<img src="./docs/high temp demo.gif" width="50%" />
 
 All-in-one view for any of Kalshi's *Highest temperature in {city} {today|tomorrow}* markets
 
@@ -19,7 +19,7 @@ All-in-one view for any of Kalshi's *Highest temperature in {city} {today|tomorr
 
 
 ### PnL
-<img src="./PnL demo.gif" width="50%" />
+<img src="./docs/PnL demo.gif" width="50%" />
 Plot, export your complete profit and loss history
 
 * Win\loss ratio
@@ -38,7 +38,7 @@ Yes. Though I would appreciate any feedback to help me decide whether or not to 
 ### Windows Defender says I shouldn't run it...?
 I'm starting simple and the installer is an unsigned binary without any reputation yet, so Windows makes it difficult to install. If you don't want to click 'Run anyway' that is understandable. If this project takes off then I'll get a cert to make Windows feel better about it.
 ### It's asking for an API key. How do I create one?
-Kalshi requires 3rd-party apps to authenticate with an API key. Creating one is simple. [Here's a guide.](apikeyhowto.md)
+Kalshi requires 3rd-party apps to authenticate with an API key. Creating one is simple. [Here's a guide.](./docs/apikeyhowto.md)
 ### Why is PnL so slow the first time?
 Depending on how many orders you've placed, downloading your entire trading history can take a while. After this initial pull it's much faster since it just needs to get recent data.
 
