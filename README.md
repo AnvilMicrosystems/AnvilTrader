@@ -35,8 +35,12 @@ Plot, export your complete profit and loss history
 # Frequently Asked Questions
 ### Is it free?
 Yes. Though I would appreciate any feedback to help me decide whether or not to continue working. See contact options below.
-### Windows Defender says I shouldn't run it...?
-I'm starting simple and the installer is an unsigned binary without any reputation yet, so Windows makes it difficult to install. If you don't want to click 'Run anyway' that is understandable. If this project takes off then I'll get a cert to make Windows feel better about it.
+### I'm getting security warnings. Is it safe?
+I'm starting simple and the installer is an unsigned binary without any reputation yet, so your browser and Windows make it difficult to install. 
+* Make sure you successfully download the file. Chrome is fine, but in Edge you need to click '...' and then click *Keep* and *Keep anyway.*
+* When you see the *Windows protected your PC* dialog, click *More info* then *Run anyway*.
+
+I'm not happy about this experience and am looking at getting the binaries signed to make this go away.
 ### It's asking for an API key. How do I create one?
 Kalshi requires 3rd-party apps to authenticate with an API key. Creating one is simple. [Here's a guide.](./docs/apikeyhowto.md)
 ### Why is PnL so slow the first time?
